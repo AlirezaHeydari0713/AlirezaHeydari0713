@@ -6,7 +6,7 @@ Front-end Developer
 
 I am a front developer.
 
-* 🌍  I'm based in Iran-Bushehr
+* 🌍  I'm based in Iran
 * ✉️  You can contact me at [heydari.alireza015@gmail.com](mailto:heydari.alireza015@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
