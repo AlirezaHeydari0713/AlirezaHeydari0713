@@ -1,52 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alireza Heydari
-=======================================================================================================================================
+# Hi there 👋 I'm Alireza Heydari
 
-Front-end Developer
--------------------
+🎯 **Software Engineer | Python Developer | Front-End Enthusiast | Embedded Systems Hobbyist**
 
-I am a front developer.
+---
 
-* 🌍  I'm based in Iran
-* ✉️  You can contact me at [heydari.alireza015@gmail.com](mailto:heydari.alireza015@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects
+### 🧩 About Me
+I’m a multidisciplinary software engineer who enjoys building **complete systems** —  
+from user interfaces and backend logic to embedded hardware control.  
 
-### Skills
+- 🌍 Based in Iran  
+- 💡 Currently focusing on **Python applications** and **system-level projects**  
+- 🧠 Learning more about **React**, **IoT integrations**, and **scalable backend design**  
+- 🤝 Open to collaborations on software or automation projects  
 
+---
 
+### 🛠️ Tech Stack
+
+#### 🖥️ Web Development
 <p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>    
-  
-
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
+#### 🐍 Python & Backend
+<p align="left">
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="36" height="36" alt="SQLite" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="36" height="36" alt="Flask" /></a>
+</p>
 
-### Socials
+#### ⚡ Embedded / Hardware
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36" height="36" alt="Arduino" /></a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/AlirezaHeydari0713" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>       <a href="https://www.linkedin.com/in/Alireza Heydari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 🧰 Tools
+- Version Control: **Git & GitHub**
+- Design & Prototyping: **Figma**
+- IDEs: VS Code, PyCharm, Arduino IDE
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/AlirezaHeydari0713"><img src="https://github-readme-stats.vercel.app/api?username=AlirezaHeydari0713&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlirezaHeydari0713's GitHub stats" /></a>                                        <a href="http://www.github.com/AlirezaHeydari0713"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaHeydari0713&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🌱 Current Focus
+> Strengthening backend skills with Python,  
+> integrating software with hardware via Arduino,  
+> and refining front-end expertise for complete product development.
 
+---
 
+### 📫 Contact
+- 📧 Email: [heydari.alireza015@gmail.com](mailto:heydari.alireza015@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/alireza-heydari)
+- 💻 [GitHub](https://github.com/AlirezaHeydari0713)
 
-<a href="http://www.github.com/AlirezaHeydari0713"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlirezaHeydari0713&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/AlirezaHeydari0713" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaHeydari0713&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaHeydari0713&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaHeydari0713&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+⭐ _"Engineering is not about knowing everything — it’s about connecting what you know to build something meaningful."_  
