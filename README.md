@@ -29,7 +29,7 @@ from user interfaces and backend logic to embedded hardware control.
 #### 🐍 Python & Backend
 <p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://git-sscm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="36" height="36" alt="SQLite" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="36" height="36" alt="Flask" /></a>
 </p>
@@ -56,9 +56,25 @@ from user interfaces and backend logic to embedded hardware control.
 ---
 
 ### 📫 Contact
-- 📧 Email: [heydari.alireza015@gmail.com](mailto:heydari.alireza015@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/alireza-heydari)
-- 💻 [GitHub](https://github.com/AlirezaHeydari0713)
+<p align="left">
+  <a href="https://github.com/AlirezaHeydari0713" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/alireza-heydari-a165022b4/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    </picture>
+  </a>
+  <a href="mailto:heydari.alireza015@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="32" height="32" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -70,4 +86,4 @@ from user interfaces and backend logic to embedded hardware control.
 
 ---
 
-⭐ _"Engineering is not about knowing everything — it’s about connecting what you know to build something meaningful."_  
+⭐ _"Engineering is not about knowing everything — it’s about connecting what you know to build something meaningful."_
